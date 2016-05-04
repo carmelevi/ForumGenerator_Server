@@ -1,0 +1,8 @@
+C:\Users\WIN8\Documents\Visual Studio 2012\Projects\ForumGenerator\DALTest\bin\Debug\DALTest.dll
+C:\Users\WIN8\Documents\Visual Studio 2012\Projects\ForumGenerator\DALTest\bin\Debug\DALTest.pdb
+C:\Users\WIN8\Documents\Visual Studio 2012\Projects\ForumGenerator\DALTest\bin\Debug\ForumGenerator.exe
+C:\Users\WIN8\Documents\Visual Studio 2012\Projects\ForumGenerator\DALTest\bin\Debug\MySql.Data.dll
+C:\Users\WIN8\Documents\Visual Studio 2012\Projects\ForumGenerator\DALTest\bin\Debug\ForumGenerator.pdb
+C:\Users\WIN8\Documents\Visual Studio 2012\Projects\ForumGenerator\DALTest\obj\Debug\DALTest.csprojResolveAssemblyReference.cache
+C:\Users\WIN8\Documents\Visual Studio 2012\Projects\ForumGenerator\DALTest\obj\Debug\DALTest.dll
+C:\Users\WIN8\Documents\Visual Studio 2012\Projects\ForumGenerator\DALTest\obj\Debug\DALTest.pdb
